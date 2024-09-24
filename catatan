@@ -1,8 +1,7 @@
 Tipe data Python:
 Tipe data Primitive
 - Integer (int) -> Numerikal
-- String (Str) -> Character a-z,
-0-9,special character
+- String (Str) -> Character a-z,0-9,special character
 - Float (float) -> Decimal (bilangan berkoma)
 - Booleam (bool) True/False
 tanda "" untuk merepresentasikan sring
