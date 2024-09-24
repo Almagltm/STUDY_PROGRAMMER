@@ -3,11 +3,6 @@
 
 #1. Variable Deklaration
 
-
-
-
-
-
 #2. operations-> +,-,*,/,%,=
 
 #3. Perulangan -> Looping
